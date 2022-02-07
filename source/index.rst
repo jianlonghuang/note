@@ -8,9 +8,8 @@ Welcome to note's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-
+   patch.md
 
 Indices and tables
 ==================
