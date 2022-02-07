@@ -9,7 +9,7 @@ Welcome to note's documentation!
 .. toctree::
    :maxdepth: 2
 
-   patch.md
+   patch
 
 Indices and tables
 ==================
